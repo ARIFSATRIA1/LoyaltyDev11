@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm M Arif Satria/h1>
+<h1 align="center">Hi I'm M Arif Satria</h1>
 
  <h3 align="center"> 2nd Years Information Technology Student at Universitas Muhammadiyah Sumatera Utara </h3>
  <div align="Center"> <img src="https://media0.giphy.com/media/BRkfbKQS69zmJK5x6g/giphy.gif?cid=ecf05e47u49saulkwhjc5v3qmfuewz4v7obpmt95g4bqbzrf&ep=v1_gifs_search&rid=giphy.gif&ct=g"></div>
