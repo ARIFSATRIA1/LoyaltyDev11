@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm M Arif Satria/h1>
 
  <h3 align="center"> 2nd Years Information Technology Student at Telkom University </h3>
- <div align="Center"> <img src="https://giphy.com/gifs/xbox-game-xbox-series-x-s-UgV8Y7bDxsZDCP01eo"></div>
+ <div align="Center"> <img src="https://giphy.com/gifs/dead-gojo-my-reaction-to-that-information-RTEHVCDMqASHiauZPf"></div>
 
  <br>
 
